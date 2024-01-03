@@ -1,13 +1,20 @@
 .primeros{
+    margin-top: 150px;
     display: flex;
     justify-content:center ;
 
 }
 .lentes{
     width: 350px;
-    margin:0 40;
+    margin:0 70px;
 }
 .segundos{
+    margin-top: 300px;
     display: flex;
     justify-content: center;
+}
+.lentes1{
+   
+    width: 350px;
+    margin:0 70px;
 }
